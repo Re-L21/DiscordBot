@@ -1,7 +1,7 @@
 module.exports = {
     name : 'summon',
     description : "Summon the almighty Exusiai",
-    execute(message, args)
+    execute(message, args, cmd, client, Discord)
     {
         const voiceCh = message.member.voice.channel;
         
