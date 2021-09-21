@@ -1,4 +1,5 @@
 {
     "prefix" : "-",
-    "token" : "[your-discord-bot-token"
+    "botName" : "Exusiai",
+    "token" : "[YOUR_BOT_TOKEN]"
 }
